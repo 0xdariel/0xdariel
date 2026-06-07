@@ -9,6 +9,7 @@
   <a href="https://github.com/0xdariel/chainscope"><img src="https://img.shields.io/badge/🔍_ChainScope-On--Chain_Toolkit-blue?style=for-the-badge" alt="ChainScope"></a>
   <a href="https://github.com/0xdariel/whale-watch"><img src="https://img.shields.io/badge/🐋_Whale_Watch-Wallet_Tracker-green?style=for-the-badge" alt="Whale Watch"></a>
   <a href="https://github.com/0xdariel/onchain-anomaly-llm"><img src="https://img.shields.io/badge/🧠_Anomaly_LLM-ML_for_Crypto-red?style=for-the-badge" alt="Anomaly LLM"></a>
+  <a href="https://github.com/0xdariel/hidden-gems-crypto"><img src="https://img.shields.io/badge/💎_Hidden_Gems-Crypto_Alpha-purple?style=for-the-badge" alt="Hidden Gems"></a>
 </p>
 
 ---
@@ -18,6 +19,7 @@
 - 🔍 **[ChainScope](https://github.com/0xdariel/chainscope)** — Multi-chain on-chain data toolkit (wallet scanning, gas tracker, whale alerts)
 - 🐋 **[Whale Watch](https://github.com/0xdariel/whale-watch)** — Real-time wallet tracker & alert system (Telegram/Discord/webhook)
 - 🧠 **[On-Chain Anomaly LLM](https://github.com/0xdariel/onchain-anomaly-llm)** — Fine-tuning LLMs for blockchain anomaly detection on AMD ROCm
+- 💎 **[Hidden Gems Crypto](https://github.com/0xdariel/hidden-gems-crypto)** — Curated collection of underrated tools, protocols & alpha sources
 
 ### 🛠️ Tech Stack
 
@@ -43,25 +45,32 @@
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://github.com/0xdariel/chainscope">
         <b>🔍 ChainScope</b><br><br>
         Multi-chain on-chain data toolkit<br>
         <sub>Python · EVM · 7 chains</sub>
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://github.com/0xdariel/whale-watch">
         <b>🐋 Whale Watch</b><br><br>
         Real-time wallet tracker & whale alerts<br>
         <sub>Python · SQLite · Telegram</sub>
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://github.com/0xdariel/onchain-anomaly-llm">
         <b>🧠 Anomaly LLM</b><br><br>
         Fine-tune LLMs for on-chain anomaly detection<br>
         <sub>PyTorch · ROCm · QLoRA</sub>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/0xdariel/hidden-gems-crypto">
+        <b>💎 Hidden Gems</b><br><br>
+        Curated crypto alpha & tools<br>
+        <sub>Research · DeFi · On-chain</sub>
       </a>
     </td>
   </tr>
