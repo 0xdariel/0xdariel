@@ -6,20 +6,29 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/0xdariel/chainscope"><img src="https://img.shields.io/badge/🔍_ChainScope-On--Chain_Toolkit-blue?style=for-the-badge" alt="ChainScope"></a>
-  <a href="https://github.com/0xdariel/whale-watch"><img src="https://img.shields.io/badge/🐋_Whale_Watch-Wallet_Tracker-green?style=for-the-badge" alt="Whale Watch"></a>
-  <a href="https://github.com/0xdariel/onchain-anomaly-llm"><img src="https://img.shields.io/badge/🧠_Anomaly_LLM-ML_for_Crypto-red?style=for-the-badge" alt="Anomaly LLM"></a>
-  <a href="https://github.com/0xdariel/hidden-gems-crypto"><img src="https://img.shields.io/badge/💎_Hidden_Gems-Crypto_Alpha-purple?style=for-the-badge" alt="Hidden Gems"></a>
+  <a href="https://github.com/0xdariel/chainscope"><img src="https://img.shields.io/badge/🔍_ChainScope-blue?style=for-the-badge" alt="ChainScope"></a>
+  <a href="https://github.com/0xdariel/whale-watch"><img src="https://img.shields.io/badge/🐋_Whale_Watch-green?style=for-the-badge" alt="Whale Watch"></a>
+  <a href="https://github.com/0xdariel/onchain-anomaly-llm"><img src="https://img.shields.io/badge/🧠_Anomaly_LLM-red?style=for-the-badge" alt="Anomaly LLM"></a>
+  <a href="https://github.com/0xdariel/hidden-gems-crypto"><img src="https://img.shields.io/badge/💎_Hidden_Gems-purple?style=for-the-badge" alt="Hidden Gems"></a>
+  <a href="https://github.com/0xdariel/cryptobot-engine"><img src="https://img.shields.io/badge/🤖_CryptoBot-orange?style=for-the-badge" alt="CryptoBot"></a>
+  <a href="https://github.com/0xdariel/bridge-finder"><img src="https://img.shields.io/badge/🔗_Bridge_Finder-yellow?style=for-the-badge" alt="Bridge Finder"></a>
 </p>
 
 ---
 
 ### 🔭 What I'm Working On
 
-- 🔍 **[ChainScope](https://github.com/0xdariel/chainscope)** — Multi-chain on-chain data toolkit (wallet scanning, gas tracker, whale alerts)
-- 🐋 **[Whale Watch](https://github.com/0xdariel/whale-watch)** — Real-time wallet tracker & alert system (Telegram/Discord/webhook)
-- 🧠 **[On-Chain Anomaly LLM](https://github.com/0xdariel/onchain-anomaly-llm)** — Fine-tuning LLMs for blockchain anomaly detection on AMD ROCm
-- 💎 **[Hidden Gems Crypto](https://github.com/0xdariel/hidden-gems-crypto)** — Curated collection of underrated tools, protocols & alpha sources
+| Project | Description |
+|---------|-------------|
+| 🔍 **[ChainScope](https://github.com/0xdariel/chainscope)** | Multi-chain on-chain data toolkit |
+| 🐋 **[Whale Watch](https://github.com/0xdariel/whale-watch)** | Real-time wallet tracker & alert system |
+| 🧠 **[On-Chain Anomaly LLM](https://github.com/0xdariel/onchain-anomaly-llm)** | Fine-tuning LLMs for anomaly detection (ROCm) |
+| 💎 **[Hidden Gems Crypto](https://github.com/0xdariel/hidden-gems-crypto)** | Curated crypto alpha & tools |
+| 🤖 **[CryptoBot Engine](https://github.com/0xdariel/cryptobot-engine)** | Modular trading bot framework |
+| 📊 **[DeFi Dashboard](https://github.com/0xdariel/defi-dashboard)** | Portfolio tracking & analytics |
+| 🧪 **[Solana Token Scanner](https://github.com/0xdariel/solana-token-scanner)** | Token security & rug detection |
+| 🎓 **[Crypto ML Academy](https://github.com/0xdariel/crypto-ml-academy)** | Learn ML for crypto (notebooks) |
+| 🔗 **[Bridge Finder](https://github.com/0xdariel/bridge-finder)** | Cross-chain bridge aggregator |
 
 ### 🛠️ Tech Stack
 
@@ -31,7 +40,7 @@
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white" alt="Web3">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/ClickHouse-FADB4D?style=flat&logo=clickhouse&logoColor=black" alt="ClickHouse">
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white" alt="Solana">
 </p>
 
 ### 📊 GitHub Stats
@@ -45,45 +54,56 @@
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <a href="https://github.com/0xdariel/chainscope">
-        <b>🔍 ChainScope</b><br><br>
-        Multi-chain on-chain data toolkit<br>
+        <b>🔍 ChainScope</b><br>
+        On-chain data toolkit<br>
         <sub>Python · EVM · 7 chains</sub>
       </a>
     </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/0xdariel/whale-watch">
-        <b>🐋 Whale Watch</b><br><br>
-        Real-time wallet tracker & whale alerts<br>
-        <sub>Python · SQLite · Telegram</sub>
-      </a>
-    </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <a href="https://github.com/0xdariel/onchain-anomaly-llm">
-        <b>🧠 Anomaly LLM</b><br><br>
-        Fine-tune LLMs for on-chain anomaly detection<br>
+        <b>🧠 Anomaly LLM</b><br>
+        ML for anomaly detection<br>
         <sub>PyTorch · ROCm · QLoRA</sub>
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
+      <a href="https://github.com/0xdariel/cryptobot-engine">
+        <b>🤖 CryptoBot</b><br>
+        Trading bot framework<br>
+        <sub>Python · DEX · Backtest</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/0xdariel/whale-watch">
+        <b>🐋 Whale Watch</b><br>
+        Wallet tracker & alerts<br>
+        <sub>Python · SQLite · Telegram</sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
       <a href="https://github.com/0xdariel/hidden-gems-crypto">
-        <b>💎 Hidden Gems</b><br><br>
-        Curated crypto alpha & tools<br>
-        <sub>Research · DeFi · On-chain</sub>
+        <b>💎 Hidden Gems</b><br>
+        Curated crypto alpha<br>
+        <sub>Research · DeFi · Tools</sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/0xdariel/bridge-finder">
+        <b>🔗 Bridge Finder</b><br>
+        Cross-chain aggregator<br>
+        <sub>Python · Multi-bridge</sub>
       </a>
     </td>
   </tr>
 </table>
 
-### 🌐 Connect
-
-<p align="left">
-  <a href="https://github.com/0xdariel"><img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
-
 ---
 
 <p align="center">
-  <i>⚡ Building the future of on-chain intelligence, one commit at a time.</i>
+  <i>⚡ Building the future of on-chain intelligence, one commit at a time.</i><br>
+  <b>10 repos · Web3 · ML · Open Source</b>
 </p>
